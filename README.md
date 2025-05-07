@@ -2,7 +2,7 @@
 Here are the experiments for the paper: Sum Estimation under Personalized Local Differential Privacy.
 
 ## Data
-The synthetc data are contained inside the notebooks. MINST data is provided in `mnist_train.csv`. 
+The synthetc data are contained inside the notebooks. MINST data is provided in `mnist_train.csv.zip`. The file is compressed to fit the GitHub file size limit.
 
 
 
